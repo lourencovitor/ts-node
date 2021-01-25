@@ -1,15 +1,11 @@
 <p align="center">
-  <a href="" rel="noopener">
+  <a href="https://github.com/lourencovitor/ts-node" rel="noopener">
  <img width=200px height=200px src="https://raw.githubusercontent.com/TypeStrong/ts-node/HEAD/logo.svg?sanitize=true" alt="Project logo"></a>
 </p>
 
 <h3 align="center">tsnode</h3>
 
 ---
-
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
 
 ## 📝 Table of Contents
 
